@@ -1,0 +1,16 @@
+Basic Force Field.png
+size:813,891
+filter:Linear,Linear
+pma:true
+big
+bounds:2,445,444,445
+rotate:90
+gradient
+bounds:446,57,186,186
+middle
+bounds:449,527,362,362
+multiply
+bounds:2,2,442,441
+small
+bounds:449,245,280,281
+rotate:90

@@ -1,0 +1,670 @@
+fileFormatVersion: 2
+guid: 3ce17291db4614843aaab35fc64d12c3
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 75
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Construction worker zombie fire crumbling_65
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 101
+        width: 101
+        height: 112
+      alignment: 9
+      pivot: {x: 0.6184094, y: 0.048859052}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82d8330451b41674182b2c09bb7345cf
+      internalID: 1477475235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Construction worker zombie fire crumbling_68
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 116
+        width: 91
+        height: 100
+      alignment: 9
+      pivot: {x: 0.6379931, y: 0.042559203}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ec14e71854a2c84397b145591c3cc10
+      internalID: 1203344154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Construction worker zombie fire crumbling_70
+      rect:
+        serializedVersion: 2
+        x: 1607
+        y: 121
+        width: 96
+        height: 98
+      alignment: 9
+      pivot: {x: 0.6806361, y: 0.08203685}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd65f1a31a99e8042a07520c116a288f
+      internalID: 151816990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Construction worker zombie fire crumbling_72
+      rect:
+        serializedVersion: 2
+        x: 1721
+        y: 125
+        width: 88
+        height: 95
+      alignment: 9
+      pivot: {x: 0.6939531, y: 0.028383756}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b62a2068e80a52642b08d4e285cae659
+      internalID: 843702923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Construction worker zombie fire crumbling_73
+      rect:
+        serializedVersion: 2
+        x: 1829
+        y: 131
+        width: 86
+        height: 92
+      alignment: 9
+      pivot: {x: 0.7170694, y: 0.018802643}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 249b045443a7c6b4aa0a7c1d65eb29d8
+      internalID: 1875740250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Construction worker zombie fire crumbling_74
+      rect:
+        serializedVersion: 2
+        x: 1943
+        y: 135
+        width: 74
+        height: 88
+      alignment: 9
+      pivot: {x: 0.70181686, y: 0.03329641}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23d00a709af3247499f3aa0e33af04f0
+      internalID: -565942667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Construction worker zombie fire crumbling_80
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 81
+        width: 95
+        height: 99
+      alignment: 9
+      pivot: {x: 0.42132184, y: 0.016798386}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca9909f95fc92d04a93203b07c685f61
+      internalID: 1255807140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Construction worker zombie fire crumbling_82
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 81
+        width: 92
+        height: 99
+      alignment: 9
+      pivot: {x: 0.39925748, y: 0.013778378}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03b5e24ebd19b5944a9d21d7871ac22e
+      internalID: -828027145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Construction worker zombie fire crumbling_84
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 90
+        width: 92
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5942449, y: 0.029104931}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2da18b3a0a16694dacebd472ab9d23f
+      internalID: -170057926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Construction worker zombie fire crumbling_95
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 66
+        width: 88
+        height: 106
+      alignment: 9
+      pivot: {x: 0.3701463, y: 0.017455911}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d90b2a274a20769479aa753e8998e511
+      internalID: -1089727026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Construction worker zombie fire crumbling_97
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 66
+        width: 88
+        height: 106
+      alignment: 9
+      pivot: {x: 0.36749753, y: 0.020502271}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89ad5b44de2a3a247b908029c2eaaa38
+      internalID: -1292640510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Construction worker zombie fire crumbling_98
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 81
+        width: 81
+        height: 110
+      alignment: 9
+      pivot: {x: 0.37081194, y: 0.013476424}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1842397f9a2f0045819daa8415279cf
+      internalID: 1269835880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Construction worker zombie fire crumbling_99
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 79
+        width: 81
+        height: 128
+      alignment: 9
+      pivot: {x: 0.54429495, y: 0.06320751}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1644f07b61aa8d443bb176e81249c1b8
+      internalID: 872089533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Construction worker zombie fire crumbling_111
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 45
+        width: 75
+        height: 124
+      alignment: 9
+      pivot: {x: 0.35280356, y: 0.013053802}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d624c6f170e0644d86d9853b0029976
+      internalID: -738875669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Construction worker zombie fire crumbling_112
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 45
+        width: 74
+        height: 126
+      alignment: 9
+      pivot: {x: 0.35081357, y: 0.015418885}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af26650a1c8c81848bf2ae47ad682006
+      internalID: 232245369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Construction worker zombie fire crumbling_116
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 3
+        width: 98
+        height: 131
+      alignment: 9
+      pivot: {x: 0.52147657, y: 0.013816255}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 404e9dc57823e064dbea07578bd0fa8d
+      internalID: -674802278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Construction worker zombie fire crumbling_119
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 3
+        width: 98
+        height: 134
+      alignment: 9
+      pivot: {x: 0.5321864, y: 0.010721655}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac148afbd3ad4b0479496c9f272cb184
+      internalID: 30633318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Construction worker zombie fire crumbling_121
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 30
+        width: 73
+        height: 134
+      alignment: 9
+      pivot: {x: 0.39506468, y: 0.009040306}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e807d6c4c16c494b9d00401ad3dea9b
+      internalID: -1618020351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Construction worker zombie fire crumbling_122
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 30
+        width: 74
+        height: 135
+      alignment: 9
+      pivot: {x: 0.39648274, y: 0.009339226}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cad2c6b2493059843b101728b7eb93eb
+      internalID: 366451332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Construction worker zombie fire crumbling_0: 143790992
+      Construction worker zombie fire crumbling_1: -553025580
+      Construction worker zombie fire crumbling_10: 1335000674
+      Construction worker zombie fire crumbling_100: 1408540051
+      Construction worker zombie fire crumbling_101: -1990153192
+      Construction worker zombie fire crumbling_102: 1714058746
+      Construction worker zombie fire crumbling_103: 1943998504
+      Construction worker zombie fire crumbling_104: 15565036
+      Construction worker zombie fire crumbling_105: 1436028
+      Construction worker zombie fire crumbling_106: -677390247
+      Construction worker zombie fire crumbling_107: 1978432362
+      Construction worker zombie fire crumbling_108: -1670380410
+      Construction worker zombie fire crumbling_109: -524422397
+      Construction worker zombie fire crumbling_11: -1539499074
+      Construction worker zombie fire crumbling_110: -1324577079
+      Construction worker zombie fire crumbling_111: -738875669
+      Construction worker zombie fire crumbling_112: 232245369
+      Construction worker zombie fire crumbling_113: 361415586
+      Construction worker zombie fire crumbling_114: -1033906197
+      Construction worker zombie fire crumbling_115: -948672738
+      Construction worker zombie fire crumbling_116: -674802278
+      Construction worker zombie fire crumbling_117: 339951706
+      Construction worker zombie fire crumbling_118: 1622019209
+      Construction worker zombie fire crumbling_119: 30633318
+      Construction worker zombie fire crumbling_12: 1471995983
+      Construction worker zombie fire crumbling_120: 1394459849
+      Construction worker zombie fire crumbling_121: -1618020351
+      Construction worker zombie fire crumbling_122: 366451332
+      Construction worker zombie fire crumbling_123: 1064963612
+      Construction worker zombie fire crumbling_13: -1352388761
+      Construction worker zombie fire crumbling_14: 1486947950
+      Construction worker zombie fire crumbling_15: -736912661
+      Construction worker zombie fire crumbling_16: -1508834944
+      Construction worker zombie fire crumbling_17: 1001053790
+      Construction worker zombie fire crumbling_18: -1818009620
+      Construction worker zombie fire crumbling_19: -111561197
+      Construction worker zombie fire crumbling_2: -695023003
+      Construction worker zombie fire crumbling_20: 1811914969
+      Construction worker zombie fire crumbling_21: 572262401
+      Construction worker zombie fire crumbling_22: -382486820
+      Construction worker zombie fire crumbling_23: -1089848581
+      Construction worker zombie fire crumbling_24: -938160733
+      Construction worker zombie fire crumbling_25: -1578789497
+      Construction worker zombie fire crumbling_26: 328638790
+      Construction worker zombie fire crumbling_27: -1474639150
+      Construction worker zombie fire crumbling_28: 377819518
+      Construction worker zombie fire crumbling_29: -2061138755
+      Construction worker zombie fire crumbling_3: -1494387431
+      Construction worker zombie fire crumbling_30: -4670154
+      Construction worker zombie fire crumbling_31: -109296831
+      Construction worker zombie fire crumbling_32: -1353951214
+      Construction worker zombie fire crumbling_33: -1624900518
+      Construction worker zombie fire crumbling_34: -927519239
+      Construction worker zombie fire crumbling_35: 1725793052
+      Construction worker zombie fire crumbling_36: 307672628
+      Construction worker zombie fire crumbling_37: 1122457561
+      Construction worker zombie fire crumbling_38: -493339999
+      Construction worker zombie fire crumbling_39: -387791167
+      Construction worker zombie fire crumbling_4: -1790038542
+      Construction worker zombie fire crumbling_40: 93677550
+      Construction worker zombie fire crumbling_41: 1180857485
+      Construction worker zombie fire crumbling_42: 1775791962
+      Construction worker zombie fire crumbling_43: 1982258084
+      Construction worker zombie fire crumbling_44: -2036859144
+      Construction worker zombie fire crumbling_45: -1882588400
+      Construction worker zombie fire crumbling_46: -453239167
+      Construction worker zombie fire crumbling_47: -1234287650
+      Construction worker zombie fire crumbling_48: 1414694902
+      Construction worker zombie fire crumbling_49: 968506242
+      Construction worker zombie fire crumbling_5: -347734868
+      Construction worker zombie fire crumbling_50: -1956474604
+      Construction worker zombie fire crumbling_51: -1603005885
+      Construction worker zombie fire crumbling_52: 1899446436
+      Construction worker zombie fire crumbling_53: -453009107
+      Construction worker zombie fire crumbling_54: 1972696385
+      Construction worker zombie fire crumbling_55: -77702496
+      Construction worker zombie fire crumbling_56: 1754752528
+      Construction worker zombie fire crumbling_57: 33306491
+      Construction worker zombie fire crumbling_58: -498892105
+      Construction worker zombie fire crumbling_59: 1044169563
+      Construction worker zombie fire crumbling_6: -921112451
+      Construction worker zombie fire crumbling_60: -907586632
+      Construction worker zombie fire crumbling_61: 1581048079
+      Construction worker zombie fire crumbling_62: 993675601
+      Construction worker zombie fire crumbling_63: 1235483408
+      Construction worker zombie fire crumbling_64: -1954194379
+      Construction worker zombie fire crumbling_65: 1477475235
+      Construction worker zombie fire crumbling_66: -1295904381
+      Construction worker zombie fire crumbling_67: 1419635549
+      Construction worker zombie fire crumbling_68: 1203344154
+      Construction worker zombie fire crumbling_69: 2098672884
+      Construction worker zombie fire crumbling_7: 683391964
+      Construction worker zombie fire crumbling_70: 151816990
+      Construction worker zombie fire crumbling_71: 1172785374
+      Construction worker zombie fire crumbling_72: 843702923
+      Construction worker zombie fire crumbling_73: 1875740250
+      Construction worker zombie fire crumbling_74: -565942667
+      Construction worker zombie fire crumbling_75: 317089474
+      Construction worker zombie fire crumbling_76: 1137780382
+      Construction worker zombie fire crumbling_77: 1751964099
+      Construction worker zombie fire crumbling_78: 2117222745
+      Construction worker zombie fire crumbling_79: 905197329
+      Construction worker zombie fire crumbling_8: 588421551
+      Construction worker zombie fire crumbling_80: 1255807140
+      Construction worker zombie fire crumbling_81: -1989310340
+      Construction worker zombie fire crumbling_82: -828027145
+      Construction worker zombie fire crumbling_83: -2031121433
+      Construction worker zombie fire crumbling_84: -170057926
+      Construction worker zombie fire crumbling_85: -933467107
+      Construction worker zombie fire crumbling_86: -1152099356
+      Construction worker zombie fire crumbling_87: 2039936201
+      Construction worker zombie fire crumbling_88: 173272383
+      Construction worker zombie fire crumbling_89: -622273863
+      Construction worker zombie fire crumbling_9: -1125733246
+      Construction worker zombie fire crumbling_90: -1692711291
+      Construction worker zombie fire crumbling_91: -2026533206
+      Construction worker zombie fire crumbling_92: 1083158773
+      Construction worker zombie fire crumbling_93: -180410479
+      Construction worker zombie fire crumbling_94: 2086510453
+      Construction worker zombie fire crumbling_95: -1089727026
+      Construction worker zombie fire crumbling_96: 1845082105
+      Construction worker zombie fire crumbling_97: -1292640510
+      Construction worker zombie fire crumbling_98: 1269835880
+      Construction worker zombie fire crumbling_99: 872089533
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

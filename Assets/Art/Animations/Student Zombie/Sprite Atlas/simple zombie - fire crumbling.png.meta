@@ -1,0 +1,597 @@
+fileFormatVersion: 2
+guid: ced6c97fb039fd243ab1c884494fd0fc
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: simple zombie - fire crumbling_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 93.09524
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 006fd6cc695d2544d94e295ded47b912
+      internalID: -1346392199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simple zombie - fire crumbling_1
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 0
+        width: 93.09524
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a94445a4be7a93409b4a8bfbaaf14af
+      internalID: -1332691919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simple zombie - fire crumbling_2
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 0
+        width: 93.09524
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ba15a79b3e75434b8a549f6194d3cb2
+      internalID: 1917351251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simple zombie - fire crumbling_3
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 0
+        width: 93.09524
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0ac0ac8bcda96342a8051d600fee6a7
+      internalID: 681833515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simple zombie - fire crumbling_4
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 0
+        width: 93.09524
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 325cb8542efcdad4dba5b36b2803d2f8
+      internalID: 1707591470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simple zombie - fire crumbling_5
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 0
+        width: 93.09524
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb20b9405d623084dab62171488e0b6e
+      internalID: 283507254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simple zombie - fire crumbling_6
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 0
+        width: 93.09524
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1570d93e9257a244d9abf7b0a71e2cc8
+      internalID: 1104236959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simple zombie - fire crumbling_7
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 0
+        width: 93.09524
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e223ba8a300cd141829856bff8f45d9
+      internalID: 861732912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simple zombie - fire crumbling_8
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 0
+        width: 93.09524
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4042596679a79d4cbb1ba02e0af543e
+      internalID: -14627070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simple zombie - fire crumbling_9
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 0
+        width: 93.09524
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 548601a5024df3440a7c3315b8fde46e
+      internalID: -1931431902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simple zombie - fire crumbling_10
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 0
+        width: 93.09524
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52464d51ee97e5947971207f9c57dfc1
+      internalID: -2048371315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simple zombie - fire crumbling_11
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 0
+        width: 93.09524
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c6f834f832890240bc4a25792fd0246
+      internalID: -680097886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simple zombie - fire crumbling_12
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 0
+        width: 93.09524
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a715e476a498c64c86723110edb897e
+      internalID: -427369234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simple zombie - fire crumbling_13
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 0
+        width: 93.09524
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 718777215b25bc84490c09c3633df485
+      internalID: -1523822116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simple zombie - fire crumbling_14
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 0
+        width: 93.09524
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69900f0ec04c16646a1d5d825e89b2c4
+      internalID: 758162105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simple zombie - fire crumbling_15
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 0
+        width: 93.09524
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c2184ea270832545a96f80c8b7c2f17
+      internalID: 2096615131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simple zombie - fire crumbling_16
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 0
+        width: 93.09524
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb2007bae8fe637428c22e0090436099
+      internalID: -1720811946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simple zombie - fire crumbling_17
+      rect:
+        serializedVersion: 2
+        x: 1581
+        y: 0
+        width: 93.09524
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4d63df9bbc535241a1ec4e169e93631
+      internalID: -1523811021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simple zombie - fire crumbling_18
+      rect:
+        serializedVersion: 2
+        x: 1674
+        y: 0
+        width: 93.09524
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6779337a789c5ba4fa06b82b3091d265
+      internalID: -562245759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simple zombie - fire crumbling_19
+      rect:
+        serializedVersion: 2
+        x: 1767
+        y: 0
+        width: 93.09524
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf75b338522ef3f468186cbafb105b64
+      internalID: -1096272504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simple zombie - fire crumbling_20
+      rect:
+        serializedVersion: 2
+        x: 1860
+        y: 0
+        width: 93.09524
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 222f82c543718ab46842c2027af783f3
+      internalID: 345661015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      simple zombie - fire crumbling_0: -1346392199
+      simple zombie - fire crumbling_1: -1332691919
+      simple zombie - fire crumbling_10: -2048371315
+      simple zombie - fire crumbling_11: -680097886
+      simple zombie - fire crumbling_12: -427369234
+      simple zombie - fire crumbling_13: -1523822116
+      simple zombie - fire crumbling_14: 758162105
+      simple zombie - fire crumbling_15: 2096615131
+      simple zombie - fire crumbling_16: -1720811946
+      simple zombie - fire crumbling_17: -1523811021
+      simple zombie - fire crumbling_18: -562245759
+      simple zombie - fire crumbling_19: -1096272504
+      simple zombie - fire crumbling_2: 1917351251
+      simple zombie - fire crumbling_20: 345661015
+      simple zombie - fire crumbling_3: 681833515
+      simple zombie - fire crumbling_4: 1707591470
+      simple zombie - fire crumbling_5: 283507254
+      simple zombie - fire crumbling_6: 1104236959
+      simple zombie - fire crumbling_7: 861732912
+      simple zombie - fire crumbling_8: -14627070
+      simple zombie - fire crumbling_9: -1931431902
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

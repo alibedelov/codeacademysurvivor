@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 502ed31998ae64a42a726a0e5e64f12e, type: 3}
+  m_Name: MiniWorkerBossData
+  m_EditorClassIdentifier: 
+  bossName: Constructor
+  effectPrefab: {fileID: 7702500993364856551, guid: 0782c459de5df14419a25de6fb25de1e, type: 3}
+  areaPrefab: {fileID: 0}
+  fencePrefab: {fileID: 0}
+  health: 20000
+  damage: 15
+  speed: 1.5

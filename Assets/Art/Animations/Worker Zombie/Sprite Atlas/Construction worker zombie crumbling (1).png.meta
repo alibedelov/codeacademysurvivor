@@ -1,0 +1,552 @@
+fileFormatVersion: 2
+guid: 29cf2f2c3ee14a941b56ebc480348b40
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Construction worker zombie crumbling (1)_54
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 156
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73819c142b5d7034eb916e7e5887378d
+      internalID: -926445606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Construction worker zombie crumbling (1)_59
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 2
+        width: 104
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0e39e71d32dc0d4ca9088c148f0aee6
+      internalID: -606624759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Construction worker zombie crumbling (1)_66
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 2
+        width: 113
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d679c2d5195785d45b1581c399441dae
+      internalID: 480153008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Construction worker zombie crumbling (1)_72
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 2
+        width: 122
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebff70ad2a8c04f4fb036172f52494d9
+      internalID: -894202672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Construction worker zombie crumbling (1)_74
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 2
+        width: 103
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75f9832d2ebd49044871c32e44de9d78
+      internalID: 421933689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Construction worker zombie crumbling (1)_83
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 0
+        width: 97
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 316703dd1cb5f204c9b8b3ad84ce48b0
+      internalID: 433386610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Construction worker zombie crumbling (1)_84
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 2
+        width: 113
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb0287c9c181b4d43adf34a3a6621b01
+      internalID: 954524202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Construction worker zombie crumbling (1)_85
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 2
+        width: 89
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da44ebf8e8b8c2e40a290c1173aea480
+      internalID: 1908445768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Construction worker zombie crumbling (1)_88
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 1
+        width: 103
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 359e2a35ee739844f8cad6e15667e8df
+      internalID: -611375001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Construction worker zombie crumbling (1)_89
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 2
+        width: 113
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c56f03bfc3dd484f8f5b8bffe7f9b72
+      internalID: 970590752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Construction worker zombie crumbling (1)_91
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 1
+        width: 100
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a56be605f073bd4a8214a190ac1f676
+      internalID: 1680730518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Construction worker zombie crumbling (1)_92
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 2
+        width: 108
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e09bb380609fce64c9f96e012363d2f4
+      internalID: 1287625038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Construction worker zombie crumbling (1)_95
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 2
+        width: 111
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e32993620afc2d347b293621587eeb58
+      internalID: 931869216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Construction worker zombie crumbling (1)_99
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3
+        width: 101
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 164fba7d93a9e0146ac879791ab2b1a4
+      internalID: 911630299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Construction worker zombie crumbling (1)_101
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 4
+        width: 109
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fd6297584749634db5527f2d9aef269
+      internalID: 348048825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Construction worker zombie crumbling (1)_0: -1458904309
+      Construction worker zombie crumbling (1)_1: -499769224
+      Construction worker zombie crumbling (1)_10: 1786404327
+      Construction worker zombie crumbling (1)_100: -1457303315
+      Construction worker zombie crumbling (1)_101: 348048825
+      Construction worker zombie crumbling (1)_11: 981096829
+      Construction worker zombie crumbling (1)_12: 1932610982
+      Construction worker zombie crumbling (1)_13: -506114617
+      Construction worker zombie crumbling (1)_14: 168707725
+      Construction worker zombie crumbling (1)_15: -1799606274
+      Construction worker zombie crumbling (1)_16: -771941453
+      Construction worker zombie crumbling (1)_17: -448982966
+      Construction worker zombie crumbling (1)_18: -604975214
+      Construction worker zombie crumbling (1)_19: 919728056
+      Construction worker zombie crumbling (1)_2: -444905323
+      Construction worker zombie crumbling (1)_20: 2080465715
+      Construction worker zombie crumbling (1)_21: -163517808
+      Construction worker zombie crumbling (1)_22: 1114052935
+      Construction worker zombie crumbling (1)_23: -1762335680
+      Construction worker zombie crumbling (1)_24: -1022599290
+      Construction worker zombie crumbling (1)_25: 1875649092
+      Construction worker zombie crumbling (1)_26: 1289929137
+      Construction worker zombie crumbling (1)_27: -118827421
+      Construction worker zombie crumbling (1)_28: 856498948
+      Construction worker zombie crumbling (1)_29: 1584419676
+      Construction worker zombie crumbling (1)_3: 503079286
+      Construction worker zombie crumbling (1)_30: -1351311293
+      Construction worker zombie crumbling (1)_31: -1610215301
+      Construction worker zombie crumbling (1)_32: 1419263649
+      Construction worker zombie crumbling (1)_33: 1988016121
+      Construction worker zombie crumbling (1)_34: 270972742
+      Construction worker zombie crumbling (1)_35: 897191060
+      Construction worker zombie crumbling (1)_36: -398663943
+      Construction worker zombie crumbling (1)_37: 341737832
+      Construction worker zombie crumbling (1)_38: 1883680133
+      Construction worker zombie crumbling (1)_39: -665411409
+      Construction worker zombie crumbling (1)_4: -661533299
+      Construction worker zombie crumbling (1)_40: -2062837767
+      Construction worker zombie crumbling (1)_41: -1903806707
+      Construction worker zombie crumbling (1)_42: -1520310121
+      Construction worker zombie crumbling (1)_43: -1063411111
+      Construction worker zombie crumbling (1)_44: 2024192482
+      Construction worker zombie crumbling (1)_45: 955655399
+      Construction worker zombie crumbling (1)_46: -1745330102
+      Construction worker zombie crumbling (1)_47: 1586488078
+      Construction worker zombie crumbling (1)_48: -1056723870
+      Construction worker zombie crumbling (1)_49: 1154924751
+      Construction worker zombie crumbling (1)_5: -276353572
+      Construction worker zombie crumbling (1)_50: -860032301
+      Construction worker zombie crumbling (1)_51: -1553192279
+      Construction worker zombie crumbling (1)_52: -335708871
+      Construction worker zombie crumbling (1)_53: -638833349
+      Construction worker zombie crumbling (1)_54: -926445606
+      Construction worker zombie crumbling (1)_55: -36520832
+      Construction worker zombie crumbling (1)_56: 2063099622
+      Construction worker zombie crumbling (1)_57: 2094135598
+      Construction worker zombie crumbling (1)_58: -1803515762
+      Construction worker zombie crumbling (1)_59: -606624759
+      Construction worker zombie crumbling (1)_6: -159521027
+      Construction worker zombie crumbling (1)_60: -1476538726
+      Construction worker zombie crumbling (1)_61: -288910692
+      Construction worker zombie crumbling (1)_62: -518913622
+      Construction worker zombie crumbling (1)_63: 979660721
+      Construction worker zombie crumbling (1)_64: 31363249
+      Construction worker zombie crumbling (1)_65: 722824006
+      Construction worker zombie crumbling (1)_66: 480153008
+      Construction worker zombie crumbling (1)_67: -571402536
+      Construction worker zombie crumbling (1)_68: 757832891
+      Construction worker zombie crumbling (1)_69: 841716653
+      Construction worker zombie crumbling (1)_7: -712812804
+      Construction worker zombie crumbling (1)_70: -2016371240
+      Construction worker zombie crumbling (1)_71: -615814510
+      Construction worker zombie crumbling (1)_72: -894202672
+      Construction worker zombie crumbling (1)_73: 1624046490
+      Construction worker zombie crumbling (1)_74: 421933689
+      Construction worker zombie crumbling (1)_75: 2106792649
+      Construction worker zombie crumbling (1)_76: -856478928
+      Construction worker zombie crumbling (1)_77: 862067634
+      Construction worker zombie crumbling (1)_78: -711111808
+      Construction worker zombie crumbling (1)_79: 178876086
+      Construction worker zombie crumbling (1)_8: -1224845199
+      Construction worker zombie crumbling (1)_80: -1931486257
+      Construction worker zombie crumbling (1)_81: 1155948629
+      Construction worker zombie crumbling (1)_82: 113121252
+      Construction worker zombie crumbling (1)_83: 433386610
+      Construction worker zombie crumbling (1)_84: 954524202
+      Construction worker zombie crumbling (1)_85: 1908445768
+      Construction worker zombie crumbling (1)_86: -974586825
+      Construction worker zombie crumbling (1)_87: -1526652262
+      Construction worker zombie crumbling (1)_88: -611375001
+      Construction worker zombie crumbling (1)_89: 970590752
+      Construction worker zombie crumbling (1)_9: -2094650341
+      Construction worker zombie crumbling (1)_90: 1331557656
+      Construction worker zombie crumbling (1)_91: 1680730518
+      Construction worker zombie crumbling (1)_92: 1287625038
+      Construction worker zombie crumbling (1)_93: -1167454581
+      Construction worker zombie crumbling (1)_94: -1278879474
+      Construction worker zombie crumbling (1)_95: 931869216
+      Construction worker zombie crumbling (1)_96: 40236379
+      Construction worker zombie crumbling (1)_97: 537702374
+      Construction worker zombie crumbling (1)_98: 423353881
+      Construction worker zombie crumbling (1)_99: 911630299
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,18 @@
+Boss spawn.png
+size:596,638
+filter:Linear,Linear
+pma:true
+Layer_2
+bounds:219,363,311,273
+Layer_4
+bounds:219,137,224,224
+Layer_5
+bounds:2,35,215,601
+Layer_6
+bounds:445,55,142,146
+rotate:90
+Layer_7
+bounds:219,2,133,133
+Layer_8
+bounds:445,199,162,149
+rotate:90

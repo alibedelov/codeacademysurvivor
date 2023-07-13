@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: d66ba090abcdc4b4b9f9b0ebe15597f3
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Orgon Plan
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 063b515d0fa26dc4eb9631d74e401659, type: 3}
+  - {fileID: 12800000, guid: f546e23eeb4c5124cab3a14836a1e654, type: 3}
+  - {fileID: 12800000, guid: 85b846fa5e3648949afb71c3ce23890d, type: 3}
+  - {fileID: 12800000, guid: d3eba787a7b592d409bc641c3e66aadd, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

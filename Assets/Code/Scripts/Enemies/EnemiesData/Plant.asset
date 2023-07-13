@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2644a32f34b2b29498be8b0f68655d52, type: 3}
+  m_Name: Plant
+  m_EditorClassIdentifier: 
+  enemyName: PlantZombie
+  icon: {fileID: 21300000, guid: 4229fe9862bc9b14d807de3c8bc21df0, type: 3}
+  enemyPrefab: {fileID: 1163401958736406056, guid: ca833ea9ead04494f8b70566aeeb4d49, type: 3}
+  health: 1
+  speed: 1
+  damage: 5
+  attackRate: 2
+  xp:
+  - {fileID: 1406209486858747617, guid: 0f99365151586374da8846567d87ce0f, type: 3}

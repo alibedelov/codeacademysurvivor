@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7ec2e05caf0fa1d46a28957d379c2197, type: 3}
+  m_Name: DevourerBoss
+  m_EditorClassIdentifier: 
+  bossName: Devourer
+  effectPrefab: {fileID: 0}
+  areaPrefab: {fileID: 6356801904015495013, guid: 52198d795e9649f4486707462b0d466b, type: 3}
+  fencePrefab: {fileID: 711415827583909742, guid: ff3f960a7abb58d46ace817309247365, type: 3}
+  health: 100000
+  damage: 1
+  speed: 1
+  attackDelay: 1
+  ballCount: 0
+  bulletSpeed: 0

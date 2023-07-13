@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f1ed953840692e42be1ceb410c7edb6, type: 3}
+  m_Name: LowCoin
+  m_EditorClassIdentifier: 
+  itemName: LowGold
+  icon: {fileID: 21300000, guid: b0ab748cbaf636745b0710ccee6aec15, type: 3}
+  itemPrefab: {fileID: 5487241263211193833, guid: df8be623ef5de4e4881a3e1cc74c4070, type: 3}
+  probability: 55
+  coinValue: 10
